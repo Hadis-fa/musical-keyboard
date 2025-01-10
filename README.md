@@ -14,3 +14,5 @@ Compiling
 SE-mitone uses the Meson build system.
 To setup up the build environment, run meson setup builddir from the repository root.
 Then run cd builddir && meson compile to compile the code. The resulting executable will be located at builddir/semitone.
+
+Link of the demo: https://www.youtube.com/watch?v=AmgyuHuDhrY
